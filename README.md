@@ -18,7 +18,7 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 
 # Exemples of Work
 
-<img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(3).gif' width='250' /> <img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(1).gif' width='250' />
+<img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(3).gif' width='250' /> <img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(2).gif' width='250' />
 
 
 
