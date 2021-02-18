@@ -9,7 +9,7 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 - ⚡ Fun fact: I am composer and a pianist as well ;) 
 
 ### Skills
-<img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" width='40'
+<img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" width='40' />
 
 
 
