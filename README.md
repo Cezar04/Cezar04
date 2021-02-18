@@ -14,7 +14,7 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" width='40' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063f31610.0948145615245108199957.png" width='50' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/PikPng.com_javascript-logo-png_1506141.png" width='70' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/PikPng.com_bootstrap-logo-png_2172365.png" width='40' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac250cda95.4452823815233628530527.png" width='30' />
 
 #### tech used for design
-
+<img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107816577.63914842152480589553.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5842a622a6515b1e0ad75af9.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5a219145388087.5866319615121493172314.png" width='30' />
 
 
 
