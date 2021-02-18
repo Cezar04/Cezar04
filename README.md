@@ -30,6 +30,8 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Cezar04)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iancu-cezar-972bba206/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg' alt='email' height='40'>](https://www.linkedin.com/in/iancu-cezar-972bba206/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezar04)](https://github.com/anuraghazra/github-readme-stats)
 
