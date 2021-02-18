@@ -6,7 +6,10 @@
 
 I am a Full stack junior web developer with a big appetite for anything that involves technology. I enjoy learning about UI, UX and design în general, but i also am as thorough as I can with my backend code.
 
-Skills: JS / HTML / CSS/ PYTHON/ FLASK/ JAVA/
+- ⚡ Fun fact: I am composer and a pianist as well ;) 
+
+###Skills
+
 
 
 
