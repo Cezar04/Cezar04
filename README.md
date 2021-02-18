@@ -17,9 +17,9 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107816577.63914842152480589553.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5842a622a6515b1e0ad75af9.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5a219145388087.5866319615121493172314.png" width='30' />
 
 # Exemples of Work
-Project Management App
+#### Project Management App
 <img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(2).gif' width='250' />
-Figma Design 
+#### Figma Design 
 <img src='https://github.com/Cezar04/Cezar04/blob/master/Design%20f%C4%83r%C4%83%20titlu%20(1).gif' width='250' />
 
 
