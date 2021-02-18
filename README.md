@@ -4,11 +4,11 @@
 ### Development and Design
 
 
-I am a Full stack junior web developer with a big appetite for anything that involves technology. I enjoy learning about UI, UX and design în general, but i also Try to be as thorough as I can with my backend code
+I am a Full stack junior web developer with a big appetite for anything that involves technology. I enjoy learning about UI, UX and design în general, but i also am as thorough as I can with my backend code.
 
 Skills: JS / HTML / CSS/ PYTHON/ FLASK/ JAVA/
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Cezar04)  
