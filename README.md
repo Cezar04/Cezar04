@@ -1,6 +1,6 @@
 ### Hi there 👋, Cezar Iancu
 #### Development and Design
-![Development and Design](http://static1.squarespace.com/static/5ba0fce170e802beafc94f98/5ba104c24ae2370d2e24cb02/5c0906df88251b5921752fba/1544105723518/Pict.jpg?format=1500w)
+![Development and Design](https://github.com/Cezar04/Cezar04/blob/master/Blue%20and%20White%20Architect%20LinkedIn%20Banner.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
