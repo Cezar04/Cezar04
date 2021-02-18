@@ -23,6 +23,6 @@ I am a Full stack junior web developer with a big appetite for anything that inv
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezar04)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cezar04)  
+
 
 
