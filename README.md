@@ -33,8 +33,6 @@ I study to be a Full stack web developer with a big appetite for anything that i
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cezar04)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
