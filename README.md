@@ -19,7 +19,7 @@ I study to be a Full stack web developer with a big appetite for anything that i
 <img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-postgresql-relational-database-management-system-m-5b2627cf3bd403.5133174715292272152451.png' width='30'/>
 <img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-intellij-idea-integrated-development-environment-c-java-plum-5ad4c79b02dad6.2641825315238941710117.png' width='30'/>
 <img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-github-computer-icons-logo-github-5ab8a3383b38f2.3278495915220498482426.png' width='30'/>
-<img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-github-computer-icons-logo-github-5ab8a3383b38f2.3278495915220498482426.png' width='30'/>
+
 
 
 
