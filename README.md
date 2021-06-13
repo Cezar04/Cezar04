@@ -13,10 +13,14 @@ I study to be a Full stack web developer with a big appetite for anything that i
 
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" width='40' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade3063f31610.0948145615245108199957.png" width='50' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/PikPng.com_javascript-logo-png_1506141.png" width='70' /> <img src="https://github.com/Cezar04/Cezar04/blob/master/PikPng.com_bootstrap-logo-png_2172365.png" width='40' /> 
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac250cda95.4452823815233628530527.png" width='30' />
+<img src='https://github.com/Cezar04/Cezar04/blob/master/pngjoy.com_instragram-logo-tailwind-logo-png-download_7357467.png' width='40'/>
 <img src="https://github.com/Cezar04/Cezar04/blob/master/icons8-linux-48.png" width='30'/>
 <img src="https://github.com/Cezar04/Cezar04/blob/master/icons8-visual-studio-code-2019-48.png" width='30'/>
 <img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-postgresql-relational-database-management-system-m-5b2627cf3bd403.5133174715292272152451.png' width='30'/>
 <img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-intellij-idea-integrated-development-environment-c-java-plum-5ad4c79b02dad6.2641825315238941710117.png' width='30'/>
+<img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-github-computer-icons-logo-github-5ab8a3383b38f2.3278495915220498482426.png' width='30'/>
+<img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-github-computer-icons-logo-github-5ab8a3383b38f2.3278495915220498482426.png' width='30'/>
+
 
 
 
