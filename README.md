@@ -25,7 +25,7 @@ I study to be a Full stack web developer with a big appetite for anything that i
 
 
 #### Tech used for design
-<img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107816577.63914842152480589553.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5842a622a6515b1e0ad75af9.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5a219145388087.5866319615121493172314.png" width='30' />
+<img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107816577.63914842152480589553.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5842a622a6515b1e0ad75af9.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/beauty.gif" width='30' />
 
 
 # Exemples of Work
