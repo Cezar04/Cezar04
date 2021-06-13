@@ -15,9 +15,14 @@ I study to be a Full stack web developer with a big appetite for anything that i
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac250cda95.4452823815233628530527.png" width='30' />
 <img src="https://github.com/Cezar04/Cezar04/blob/master/icons8-linux-48.png" width='30'/>
 <img src="https://github.com/Cezar04/Cezar04/blob/master/icons8-visual-studio-code-2019-48.png" width='30'/>
+<img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-postgresql-relational-database-management-system-m-5b2627cf3bd403.5133174715292272152451.png' width='30'/>
+<img src='https://github.com/Cezar04/Cezar04/blob/master/kisspng-intellij-idea-integrated-development-environment-c-java-plum-5ad4c79b02dad6.2641825315238941710117.png' width='30'/>
+
+
 
 #### Tech used for design
 <img src="https://github.com/Cezar04/Cezar04/blob/master/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107816577.63914842152480589553.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5842a622a6515b1e0ad75af9.png" width='30' />  <img src="https://github.com/Cezar04/Cezar04/blob/master/5a219145388087.5866319615121493172314.png" width='30' />
+
 
 # Exemples of Work
 
