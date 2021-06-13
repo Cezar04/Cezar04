@@ -4,7 +4,7 @@
 ### Development and Design
 
 
-I study to be a Full stack web developer with a big appetite for anything that involves technology. I enjoy learning about UI, UX and design în general, but i also am as thorough as I can with my backend code.
+I study to be a Full stack web developer with a big appetite for anything that involves technology. I enjoy learning about UI, UX and design în general, but i'm also an avid learner for backend technology.
 
 - ⚡ Fun fact: I am composer and a pianist as well ;) 
 
